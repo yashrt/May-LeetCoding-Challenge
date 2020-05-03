@@ -11,3 +11,7 @@ Problem Description :
 ![Day-02 Problem](../assets/Day-02.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-02.cpp)
   
+## Day-03 [Ransom Note](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/)
+Problem Description :
+![Day-03 Problem](../assets/Day-03.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-03.cpp)
