@@ -8,7 +8,7 @@ public:
         for(char c: s)
             umap[c]++;
         
-        // returning very first character having frequency 1 else return -1
+        // returning index of very first character having frequency 1 else return -1
         for(int i=0; i<s.size(); i++)
             if(umap[s[i]]==1)
                 return i;
