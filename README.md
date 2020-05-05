@@ -21,3 +21,8 @@ Problem Description :
 ![Day-04 Problem](../assets/Day-04(a).png?raw=true)
 ![Day-04 Problem Example](../assets/Day-04(b).png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-04.cpp)
+
+## Day-05 [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)
+Problem Description :
+![Day-05 Problem](../assets/Day-05.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-05.cpp)
