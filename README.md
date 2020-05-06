@@ -26,3 +26,8 @@ Problem Description :
 Problem Description :
 ![Day-05 Problem](../assets/Day-05.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-05.cpp)
+
+## Day-06 [Majority Element](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)
+Problem Description :
+![Day-06 Problem](../assets/Day-06.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-06.cpp)
