@@ -31,3 +31,10 @@ Problem Description :
 Problem Description :
 ![Day-06 Problem](../assets/Day-06.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-06.cpp)
+
+## Day-07 [Cousins in Binary Tree](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)
+Problem Description :
+![Day-07a Problem](../assets/Day-07a.png?raw=true)
+![Day-07b Problem](../assets/Day-07b.png?raw=true)
+![Day-07c Problem](../assets/Day-07c.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-07.cpp)
