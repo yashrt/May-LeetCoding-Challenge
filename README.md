@@ -38,3 +38,9 @@ Problem Description :
 ![Day-07b Problem](../assets/Day-07b.png?raw=true)
 ![Day-07c Problem](../assets/Day-07c.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-07.cpp)
+
+## Day-08 [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)
+Problem Description :
+![Day-08a Problem](../assets/Day-08a.png?raw=true)
+![Day-08b Problem](../assets/Day-08b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-08.cpp)
