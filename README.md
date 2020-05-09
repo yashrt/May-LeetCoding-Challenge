@@ -44,3 +44,8 @@ Problem Description :
 ![Day-08a Problem](../assets/Day-08a.png?raw=true)
 ![Day-08b Problem](../assets/Day-08b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-08.cpp)
+
+## Day-09 [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)
+Problem Description :
+![Day-09 Problem](../assets/Day-09.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-09.cpp)
