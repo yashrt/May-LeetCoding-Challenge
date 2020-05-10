@@ -49,3 +49,10 @@ Problem Description :
 Problem Description :
 ![Day-09 Problem](../assets/Day-09.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-09.cpp)
+
+## Day-10 [Find the Town Judge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)
+Problem Description :
+![Day-10a Problem](../assets/Day-10a.png?raw=true)
+![Day-10b Problem](../assets/Day-10b.png?raw=true)
+![Day-10c Problem](../assets/Day-10c.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-10.cpp)
