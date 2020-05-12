@@ -61,3 +61,9 @@ Problem Description :
 Problem Description :
 ![Day-11 Problem](../assets/Day-11.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-11.cpp)
+
+
+## Day-12 [Single Element in a Sorted Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)
+Problem Description :
+![Day-11 Problem](../assets/Day-12.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-12.cpp)
