@@ -73,3 +73,9 @@ Problem Description :
 Problem Description :
 ![Day-13 Problem](../assets/Day-13.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-13.cpp)
+
+## Day-14 [Implement Trie (Prefix Tree)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
+Problem Description :
+![Day-14 Problem](../assets/Day-14.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-14.cpp)
+
