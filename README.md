@@ -18,8 +18,8 @@ Problem Description :
   
 ## Day-04 [Number Complement](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)
 Problem Description :
-![Day-04 Problem](../assets/Day-04(a).png?raw=true)
-![Day-04 Problem Example](../assets/Day-04(b).png?raw=true)
+![Day-04a Problem](../assets/Day-04(a).png?raw=true)
+![Day-04b Problem Example](../assets/Day-04(b).png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-04.cpp)
 
 ## Day-05 [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)
@@ -73,3 +73,9 @@ Problem Description :
 Problem Description :
 ![Day-13 Problem](../assets/Day-13.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-13.cpp)
+
+## Day-14 [Implement Trie (Prefix Tree)](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
+Problem Description :
+![Day-14 Problem](../assets/Day-14.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-14.cpp)
+
