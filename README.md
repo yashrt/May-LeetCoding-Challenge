@@ -85,3 +85,7 @@ Problem Description :
 ![Day-15b Problem](../assets/Day-15b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-15.cpp)
 
+## Day-16 [Odd Even Linked List](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/)
+Problem Description :
+![Day-16 Problem](../assets/Day-16.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-16.cpp)
