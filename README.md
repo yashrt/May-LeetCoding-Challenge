@@ -95,3 +95,8 @@ Problem Description :
 ![Day-17a Problem](../assets/Day-17a.png?raw=true)
 ![Day-17b Problem](../assets/Day-17b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-17.cpp)
+
+## Day-18 [Permutation in String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/)
+Problem Description :
+![Day-18 Problem](../assets/Day-18.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-18.cpp)
