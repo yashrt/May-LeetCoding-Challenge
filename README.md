@@ -100,3 +100,9 @@ Problem Description :
 Problem Description :
 ![Day-18 Problem](../assets/Day-18.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-18.cpp)
+
+## Day-19 [Online Stock Span](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)
+Problem Description :
+![Day-19a Problem](../assets/Day-19a.png?raw=true)
+![Day-19b Problem](../assets/Day-19b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-19.cpp)
