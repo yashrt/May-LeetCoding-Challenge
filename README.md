@@ -106,3 +106,9 @@ Problem Description :
 ![Day-19a Problem](../assets/Day-19a.png?raw=true)
 ![Day-19b Problem](../assets/Day-19b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-19.cpp)
+
+## Day-20 [Kth Smallest Element in a BST](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/)
+Problem Description :
+![Day-20a Problem](../assets/Day-20a.png?raw=true)
+![Day-20b Problem](../assets/Day-20b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-20.cpp)
