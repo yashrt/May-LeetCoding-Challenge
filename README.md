@@ -112,3 +112,9 @@ Problem Description :
 ![Day-20a Problem](../assets/Day-20a.png?raw=true)
 ![Day-20b Problem](../assets/Day-20b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-20.cpp)
+
+## Day-21 [Count Square Submatrices with All Ones](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/)
+Problem Description :
+![Day-21a Problem](../assets/Day-21a.png?raw=true)
+![Day-21b Problem](../assets/Day-21b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-21.cpp)
