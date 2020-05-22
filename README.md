@@ -118,3 +118,9 @@ Problem Description :
 ![Day-21a Problem](../assets/Day-21a.png?raw=true)
 ![Day-21b Problem](../assets/Day-21b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-21.cpp)
+
+## Day-22 [Sort Characters By Frequency](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/)
+Problem Description :
+![Day-22a Problem](../assets/Day-22a.png?raw=true)
+![Day-22b Problem](../assets/Day-22b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-22.cpp)
