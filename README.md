@@ -130,3 +130,9 @@ Problem Description :
 ![Day-23a Problem](../assets/Day-23a.png?raw=true)
 ![Day-23b Problem](../assets/Day-23b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-23.cpp)
+
+## Day-24 [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/)
+Problem Description :
+![Day-24a Problem](../assets/Day-24a.png?raw=true)
+![Day-24b Problem](../assets/Day-24b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-24.cpp)
