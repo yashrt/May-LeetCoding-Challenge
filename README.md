@@ -148,3 +148,8 @@ We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will in
 ```
 ![Day-25b Problem](../assets/Day-25b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-25.cpp)
+
+## Day-26 [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/)
+Problem Description :
+![Day-26 Problem](../assets/Day-26.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-26.cpp)
