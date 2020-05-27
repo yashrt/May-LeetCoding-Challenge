@@ -153,3 +153,9 @@ We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will in
 Problem Description :
 ![Day-26 Problem](../assets/Day-26.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-26.cpp)
+
+## Day-27 [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/)
+Problem Description :
+![Day-27a Problem](../assets/Day-27a.png?raw=true)
+![Day-27b Problem](../assets/Day-27b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-27.cpp)
