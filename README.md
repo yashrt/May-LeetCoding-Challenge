@@ -159,3 +159,8 @@ Problem Description :
 ![Day-27a Problem](../assets/Day-27a.png?raw=true)
 ![Day-27b Problem](../assets/Day-27b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-27.cpp)
+
+## Day-28 [Counting Bits](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/)
+Problem Description :
+![Day-28 Problem](../assets/Day-28.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-28.cpp)
