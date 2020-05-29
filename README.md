@@ -164,3 +164,9 @@ Problem Description :
 Problem Description :
 ![Day-28 Problem](../assets/Day-28.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-28.cpp)
+
+## Day-29 [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)
+Problem Description :
+![Day-29a Problem](../assets/Day-29a.png?raw=true)
+![Day-29b Problem](../assets/Day-29b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-29.cpp)
