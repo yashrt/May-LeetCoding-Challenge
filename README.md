@@ -170,3 +170,9 @@ Problem Description :
 ![Day-29a Problem](../assets/Day-29a.png?raw=true)
 ![Day-29b Problem](../assets/Day-29b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-29.cpp)
+
+## Day-30 [K Closest Points to Origin](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/)
+Problem Description :
+![Day-30a Problem](../assets/Day-30a.png?raw=true)
+![Day-30b Problem](../assets/Day-30b.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-30.cpp)
