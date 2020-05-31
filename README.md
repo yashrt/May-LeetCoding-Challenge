@@ -176,3 +176,8 @@ Problem Description :
 ![Day-30a Problem](../assets/Day-30a.png?raw=true)
 ![Day-30b Problem](../assets/Day-30b.png?raw=true)
 ### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-30.cpp)
+
+## Day-31 [Edit Distance](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/)
+Problem Description :
+![Day-31 Problem](../assets/Day-31.png?raw=true)
+### [Solution](https://github.com/yashrt/May-LeetCoding-Challenge/blob/master/Day-31.cpp)
